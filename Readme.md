@@ -1,4 +1,4 @@
-# _Proyecto Ingregador en ICARO: MarketPlace_
+# _Proyecto Integrador en ICARO: MarketPlace_
 ---
 ### Temática del MarketPlace:
 Éste e-commerce está pensado para comercializar **productos turísticos**: excursiones, traslados, boletos a museos, entre otros.
